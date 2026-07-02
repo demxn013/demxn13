@@ -4,7 +4,7 @@
 
 # Hey, I'm DEMXN13 👋
 
-Owner of **ElementalMC** — a Four Elements Minecraft Server experience.
+Owner of **ElementalMC** - a Four Elements Minecraft Server experience.
 
 ---
 

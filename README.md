@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/demxn013/demxn13/main/Yazanaki/Images/YAZANAKI_banner.png" alt="Yazanaki Banner" width="100%"/>
+</div>
+
 # Hey, I'm DEMXN13 👋
 
 Owner of **ElementalMC** — a Four Elements Minecraft Server experience.
@@ -18,12 +22,27 @@ I'm actively involved in building and growing these communities:
 
 ---
 
-## 📊 Quick Stats
+## 📊 GitHub Stats
 
-- **2** Followers
-- **2** Public Repositories
-- **Most Recent Project**: [demxn13](https://github.com/demxn013/demxn13) (this profile!)
-- **Active Project**: [YZNKResourcePack](https://github.com/demxn013/YZNKResourcePack) — A Minecraft resource pack
+<div align="center">
+  <a href="https://github.com/demxn013">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demxn013&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/demxn013">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demxn013&layout=compact&theme=dark" alt="Top Languages"/>
+  </a>
+</div>
+
+### 📚 My Repositories
+
+<div align="center">
+  <a href="https://github.com/demxn013/YZNKResourcePack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demxn013&repo=YZNKResourcePack&theme=dark" alt="YZNKResourcePack"/>
+  </a>
+  <a href="https://github.com/demxn013/demxn13">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demxn013&repo=demxn13&theme=dark" alt="demxn13"/>
+  </a>
+</div>
 
 ---
 

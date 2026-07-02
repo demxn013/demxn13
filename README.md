@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/demxn013/demxn13/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/demxn013/demxn13/main/Yazanaki/Images/YAZANAKI_banner.png" alt="Yazanaki Banner" width="100%"/>
 </div>
 
 # Hey, I'm DEMXN13 👋

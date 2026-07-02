@@ -2,7 +2,7 @@
   <img src="./Yazanaki/Images/YAZANAKI_banner.png" alt="Yazanaki Banner" width="100%"/>
 </div>
 
-# Hey, I'm DEMXN13 👋
+# Hello, I'm DEMXN13 👋
 
 Owner of **ElementalMC** - a Four Elements Minecraft Server experience.
 
@@ -10,7 +10,7 @@ Owner of **ElementalMC** - a Four Elements Minecraft Server experience.
 
 ## 🎮 My Communities
 
-I'm actively involved in building and growing these communities:
+I'm actively involved in building and growing the following communities:
 
 ### Yazanaki
 - **Discord**: [discord.gg/yazanaki-1220847061797179524](https://discord.gg/yazanaki-1220847061797179524)
